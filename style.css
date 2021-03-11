@@ -1,0 +1,84 @@
+.container {
+  max-width: 1200px;
+}
+img {
+  width: 1200px;
+}
+.head {
+  display: flex;
+  font-family: "Abril Fatface", cursive;
+}
+#headtext1 {
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 250px;
+  font-size: 40px;
+}
+#headtext2 {
+  position: absolute;
+  margin-top: 260px;
+  margin-left: 250px;
+  font-size: 70px;
+}
+.body {
+  width: 700px;
+  margin-left: 250px;
+  margin-top: 50px;
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 25px;
+  /*   color: grey; */
+}
+ul {
+  list-style-type: square;
+  /*   color: grey; */
+}
+.tittle {
+  width: 700px;
+  margin-left: 250px;
+  font-family: "Merriweather", serif;
+  font-size: 22px;
+}
+.greybox {
+  display: flex;
+  width: 800px;
+  height: 140px;
+  background: grey;
+  margin-left: 200px;
+  font-size: 25px;
+  color: white;
+}
+.greybox2 {
+  display: flex;
+  width: 800px;
+  height: 200px;
+  background: grey;
+  margin-left: 200px;
+  font-size: 25px;
+  color: white;
+}
+.mark {
+  position: relative;
+  margin: 0;
+  font-size: 75px;
+  color: white;
+}
+h3 {
+  text-transform: uppercase;
+  color: black;
+}
+h4 {
+  color: black;
+  margin-bottom: 0;
+}
+h5 {
+  font-family: "Merriweather", serif;
+  color: grey;
+  margin-top: 0;
+  font-size: 16px;
+}
+h6 {
+  color: grey;
+}
+li{
+  margin-bottom: 7px;
+}
